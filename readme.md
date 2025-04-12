@@ -77,10 +77,6 @@ When exiting the Nix shell, the package becomes unavailable. This is expected be
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under [Your License] - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - [Paulo Pacitti](https://github.com/paulopacitti) for creating the original Gruvbox Factory
